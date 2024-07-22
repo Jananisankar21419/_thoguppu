@@ -1,0 +1,16 @@
+.main {
+  margin-top: 0vh;
+  margin-bottom: 0vh;
+  background-color: #182b2a;
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fill;
+}
+.projects-section {
+  padding: 20px;
+  background-color: #f9f9f9; /* Adjust the background color if needed */
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Adjust the gap between project cards */
+}
